@@ -5,11 +5,11 @@ The main goal is to build ML model with the lowest error for prediction house pr
 ## Dataset 
 Dataset contains 79 explanatory variables describing (almost) every aspect of residential homes.
 
-## Metric 
-Root mean squared error is used to evaluate quality of machine learning model.
-
 ## Task 
 Predict price for houses in test.csv
+
+## Metric 
+Root mean squared error is used to evaluate quality of machine learning model.
 
 ### data_description.txt
 Shows all information about dataset.
