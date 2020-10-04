@@ -1,5 +1,5 @@
 # House prices challenge
-This challenge contains solution for https://www.kaggle.com/c/mf-accelerator
+This challenge contains solution for https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview  
 The main goal is to build ML model with the lowest error for prediction house price.
 
 ## Dataset 
